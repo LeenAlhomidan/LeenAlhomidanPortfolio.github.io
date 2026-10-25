@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">تصميم توضيحي لمنصة وازن الرقمية</title>
+  <desc id="desc">واجهة توضيحية عربية تعرض لوحة متابعة وملخصًا للطلبات وخدمات المنشآت.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172a3a"/>
+      <stop offset="1" stop-color="#275b66"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8b16f"/>
+      <stop offset="1" stop-color="#f0d7a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#background)"/>
+  <circle cx="1040" cy="90" r="210" fill="#fff" opacity=".035"/>
+  <circle cx="120" cy="720" r="260" fill="#fff" opacity=".035"/>
+  <rect x="122" y="92" width="956" height="566" rx="28" fill="#f8f7f3"/>
+  <rect x="122" y="92" width="956" height="74" rx="28" fill="#fff"/>
+  <path d="M122 138h956v28H122z" fill="#fff"/>
+  <circle cx="165" cy="129" r="8" fill="#e6a09a"/>
+  <circle cx="194" cy="129" r="8" fill="#e7c47b"/>
+  <circle cx="223" cy="129" r="8" fill="#9cc4a4"/>
+  <text x="1004" y="139" text-anchor="end" fill="#173144" font-family="Tahoma, Arial, sans-serif" font-size="24" font-weight="700">وازن</text>
+  <rect x="823" y="194" width="218" height="425" rx="16" fill="#edf1f0"/>
+  <text x="1008" y="239" text-anchor="end" fill="#52616a" font-family="Tahoma, Arial, sans-serif" font-size="17">لوحة التحكم</text>
+  <rect x="850" y="265" width="164" height="42" rx="10" fill="#dce9e4"/>
+  <text x="990" y="292" text-anchor="end" fill="#28594d" font-family="Tahoma, Arial, sans-serif" font-size="16" font-weight="700">نظرة عامة</text>
+  <text x="1008" y="345" text-anchor="end" fill="#68747a" font-family="Tahoma, Arial, sans-serif" font-size="15">الطلبات</text>
+  <text x="1008" y="389" text-anchor="end" fill="#68747a" font-family="Tahoma, Arial, sans-serif" font-size="15">المبيعات</text>
+  <text x="1008" y="433" text-anchor="end" fill="#68747a" font-family="Tahoma, Arial, sans-serif" font-size="15">التحليلات</text>
+  <text x="1008" y="477" text-anchor="end" fill="#68747a" font-family="Tahoma, Arial, sans-serif" font-size="15">إعدادات المتجر</text>
+  <text x="784" y="229" text-anchor="end" fill="#173144" font-family="Tahoma, Arial, sans-serif" font-size="23" font-weight="700">مساحة أعمالك في مكان واحد</text>
+  <text x="784" y="258" text-anchor="end" fill="#718087" font-family="Tahoma, Arial, sans-serif" font-size="14">نموذج بصري توضيحي لفكرة المنصة</text>
+  <rect x="145" y="284" width="200" height="118" rx="14" fill="#fff" stroke="#e1e5e2"/>
+  <rect x="365" y="284" width="200" height="118" rx="14" fill="#fff" stroke="#e1e5e2"/>
+  <rect x="585" y="284" width="200" height="118" rx="14" fill="#fff" stroke="#e1e5e2"/>
+  <text x="323" y="317" text-anchor="end" fill="#758187" font-family="Tahoma, Arial, sans-serif" font-size="14">إدارة الطلبات</text>
+  <text x="543" y="317" text-anchor="end" fill="#758187" font-family="Tahoma, Arial, sans-serif" font-size="14">قنوات البيع</text>
+  <text x="763" y="317" text-anchor="end" fill="#758187" font-family="Tahoma, Arial, sans-serif" font-size="14">متابعة الأداء</text>
+  <path d="M181 365h125" stroke="#d8b16f" stroke-width="9" stroke-linecap="round"/>
+  <path d="M401 365h90m18 0h20" stroke="#8db9a6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M621 370l32-26 31 14 38-31" fill="none" stroke="#568c7b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="145" y="425" width="640" height="194" rx="14" fill="#fff" stroke="#e1e5e2"/>
+  <text x="748" y="464" text-anchor="end" fill="#173144" font-family="Tahoma, Arial, sans-serif" font-size="17" font-weight="700">خدمات رقمية مترابطة</text>
+  <rect x="596" y="491" width="155" height="90" rx="12" fill="#f3f6f2"/>
+  <rect x="408" y="491" width="155" height="90" rx="12" fill="#f3f6f2"/>
+  <rect x="220" y="491" width="155" height="90" rx="12" fill="#f3f6f2"/>
+  <text x="674" y="531" text-anchor="middle" fill="#305f52" font-family="Tahoma, Arial, sans-serif" font-size="15" font-weight="700">واجهة إلكترونية</text>
+  <text x="485" y="531" text-anchor="middle" fill="#305f52" font-family="Tahoma, Arial, sans-serif" font-size="15" font-weight="700">الدفع والتوصيل</text>
+  <text x="297" y="531" text-anchor="middle" fill="#305f52" font-family="Tahoma, Arial, sans-serif" font-size="15" font-weight="700">تسويق وتحليل</text>
+  <rect x="653" y="548" width="42" height="5" rx="3" fill="url(#accent)"/>
+  <rect x="464" y="548" width="42" height="5" rx="3" fill="url(#accent)"/>
+  <rect x="276" y="548" width="42" height="5" rx="3" fill="url(#accent)"/>
+  <text x="600" y="710" text-anchor="middle" fill="#fff" opacity=".84" font-family="Tahoma, Arial, sans-serif" font-size="21">منصة وازن الرقمية</text>
+</svg>

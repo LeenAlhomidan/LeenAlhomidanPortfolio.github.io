@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+	<title id="title">مسار الدورة المحاسبية لشركة أفق للتجزئة</title>
+	<desc id="desc">تصور مرئي لمراحل التأسيس والتسجيل والمطابقة والإقفال والتقارير</desc>
+	<defs>
+		<linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0" stop-color="#142d35"/>
+			<stop offset="1" stop-color="#1d4b4b"/>
+		</linearGradient>
+		<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0" stop-color="#d8bb83"/>
+			<stop offset="1" stop-color="#f1dfb7"/>
+		</linearGradient>
+	</defs>
+	<rect width="800" height="500" rx="28" fill="url(#background)"/>
+	<circle cx="400" cy="252" r="157" fill="none" stroke="#ffffff" stroke-opacity=".11" stroke-width="2"/>
+	<circle cx="400" cy="252" r="112" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2" stroke-dasharray="5 10"/>
+	<path d="M400 84a168 168 0 0 1 168 168" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+	<path d="m553 244 15 8-15 9" fill="none" stroke="#f1dfb7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+	<path d="M568 252a168 168 0 0 1-168 168" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+	<path d="m408 412-8 8-9-8" fill="none" stroke="#f1dfb7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+	<path d="M400 420a168 168 0 0 1-168-168" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+	<path d="m240 260-8-8 8-9" fill="none" stroke="#f1dfb7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+	<path d="M232 252A168 168 0 0 1 400 84" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+	<path d="m392 92 8-8 9 8" fill="none" stroke="#f1dfb7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+	<g fill="#1c3b41" stroke="#d8bb83" stroke-width="2">
+		<circle cx="400" cy="84" r="22"/>
+		<circle cx="568" cy="252" r="22"/>
+		<circle cx="400" cy="420" r="22"/>
+		<circle cx="232" cy="252" r="22"/>
+	</g>
+	<g fill="#f5f2eb" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+		<text x="400" y="47">التأسيس</text>
+		<text x="654" y="259">التسجيل</text>
+		<text x="400" y="474">المراجعة والإقفال</text>
+		<text x="145" y="259">التقارير</text>
+	</g>
+	<rect x="300" y="186" width="200" height="132" rx="18" fill="#f4f1e9"/>
+	<path d="M342 220h116M342 243h116M342 266h76" fill="none" stroke="#76908a" stroke-width="7" stroke-linecap="round"/>
+	<path d="m423 277 14 14 27-33" fill="none" stroke="#bd9c61" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+	<text x="400" y="342" fill="#f4f1e9" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">أفق للتجزئة</text>
+	<text x="400" y="372" fill="#c8d4cf" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">من دورة متكاملة إلى مخرجات مالية</text>
+</svg>
